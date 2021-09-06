@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimateCells", "AnimateCells\AnimateCells.csproj", "{9EA5A57D-0DE7-4C87-94A0-E151D3340BC1}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimateCells", "AnimateCells\AnimateCells.Net5.csproj", "{9EA5A57D-0DE7-4C87-94A0-E151D3340BC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
