@@ -22,7 +22,7 @@
             </StackPanel>
         </DataTemplate>
     </Window.Resources> 
-    <dxg:GridControl Name="grid" CustomUnboundColumnData="grid_CustomUnboundColumnData">
+    <dxg:GridControl Name="grid"  CustomUnboundColumnData="grid_CustomUnboundColumnData">
         <dxg:GridControl.Columns>
             <dxg:GridColumn FieldName="Rank" FixedWidth="True" Width="100" />
             <dxg:GridColumn FieldName="Name" />
